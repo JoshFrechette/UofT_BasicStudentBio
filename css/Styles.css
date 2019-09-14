@@ -1,0 +1,63 @@
+h1 {
+    font-style: sans-serif;
+    text-align: center;
+    color: white;
+    align-content: center;
+    background-color:black;
+}
+
+.left {
+    float: left;
+    width: 33.33%;
+}
+
+.middle {
+    float: left;
+    width: 33.33%;
+   
+}
+
+.right {
+    float: left;
+    width: 33.33%;
+}
+
+h2 {
+    float: center;
+    padding:10px 10px 0px 25px;
+    align-content: left;
+}
+
+
+img {
+    height:200px;
+    width: 200px;
+    float: left;
+    padding: 0px 10px 10px 25px;
+
+}
+
+.about {
+    padding: 50px 10px 10px 10px;
+}
+
+.student-bio {
+    text-align: center;
+    padding: 50px 50px 50px 50px;
+
+}
+
+
+        
+.contact {
+    width: 100%;
+    float: right;
+}
+
+li {
+    font-weight: bold;
+}
+
+body {
+    background-color: whitesmoke;
+}
